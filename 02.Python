@@ -1,1 +1,4 @@
-print("Second notebook")
+itemprice = 100
+tax_rate = 20
+
+price_with_tax = item
